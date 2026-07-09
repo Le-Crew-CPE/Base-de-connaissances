@@ -8,6 +8,8 @@
 
 ### 1.2.1 Client serveur
 
+
+
 ### 1.2.2 DHCP
 
 ### 1.2.3 DNS 
@@ -199,6 +201,78 @@ APIPA, loopback, réservés etc..
 ### 1.15.2 Autres services — SSH, Telnet (et pourquoi ne pas l'utiliser), FTP/SFTP/FTPS, SMB, NFS, NTP, SNMP, Syslog, LDAP / Kerberos, RDP
 
 ---
+
+## 1.16 Les équipements
+
+### 1.16.1 Quels sont leurs utilités
+
+### 1.16.2 Architecture d'un réseau d'entreprise
+
+
+---
+
+
+## 1.17 Le sans-fil (Wifi)
+
+### 1.17.1 Les fréquences radios
+
+### 1.17.2 Les normes
+
+### 1.17.3 Les concepts principaux 
+
+SSID BSSID, ESSID, WIFI 6 et 7
+
+### 1.17.4 La sécurité du wifi 
+
+WEP, WPA? WPA2, WPA3
+
+### 1.17.5 les bonnes pratiques
+
+
+---
+
+## 1.18 VPN
+
+### 1.18.1 Fonctionnment du VPN
+
+### 1.18.2 Le site-à-site
+
+### 1.18.3 IPsec 
+
+### 1.18.4 SSL/TLS 
+
+
+---
+
+## 1.19 Virtualisation 
+
+### 1.19.1 vSwitch
+
+### 1.19.2 Conteneur (Docker, Podman)
+
+### 1.19.3 Cloud 
+
+### 1.19.4 SDN
+
+---
+
+
+## 20. Boite à outils et scénarios
+
+50.1 ipconfig / ifconfig / ip a
+50.2 ping, traceroute / tracert, pathping
+50.3 nslookup, dig
+50.4 netstat / ss, arp, route
+50.5 telnet / nc pour tester un port
+50.6 Wireshark / tcpdump : lire une capture sans paniquer
+50.7 iperf, speedtest
+
+
+## 21. Des certifications pour aller plus loin
+
+
+
+## 22. Autres
 
 
 
